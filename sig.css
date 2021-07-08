@@ -184,22 +184,33 @@ padding-bottom: 1em;
 .pres img{
    padding:3em;
    padding-bottom: 1em;
-   height: 9em;
-   width:9em;
+   height: 10em;
+   width:10em;
 }
 .pres
 {
    width: 16em;
    margin-top:3vw;
    margin-left:15vw;
-   margin-right:10vw;
+   margin-right:15vw;
 
 }
 .head{
-   font-size: 28;
+   font-size: 29;
 }
 #p2tab 
 {
    margin-right:10vw;
+}
+span 
+{
+   text-align:center;
+}
+.logo
+{
+   height:4em;
+   width:4em;
+   margin-right:5px;
+   margin-top:10px;
 }
 }
